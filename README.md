@@ -5,6 +5,7 @@ Collection of short notes, tips and tricks on various topics I've found useful.
 ## Topics
 
 - [Git](#git)
+- [Rails](#rails)
 
 ### Git
 
